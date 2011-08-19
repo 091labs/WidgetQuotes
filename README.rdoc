@@ -1,7 +1,7 @@
 = GMIT - Energy App
 
 * <b>Homepage:</b>
-* <b>Git:</b> https://github.com/heepie/GMIT---Energy-App
+* <b>Git:</b> https://github.com/091labs/WidgetQuotes
 * <b>Author:</b> 091 Labs  
 * <b>License:</b> GPL v3
 * <b>Latest Version:</b> 1.0
