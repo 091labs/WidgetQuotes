@@ -1,0 +1,55 @@
+= GMIT - Energy App
+
+* <b>Homepage:</b>
+* <b>Git:</b> https://github.com/heepie/GMIT---Energy-App
+* <b>Author:</b> 091 Labs  
+* <b>License:</b> GPL v3
+* <b>Latest Version:</b> 1.0
+* <b>Release Date:</b> August 19, 2010	
+
+== General Infromation
+
+This is an app for Android powered devices. Is a widget with IT orientated quotes for the home screen.
+
+
+== Authors
+
+Carles Sentis carlesentis@gmail.com
+
+
+== Thanks
+
+
+== ChangeLog
+
+
+== News
+
+
+== Install
+
+
+== Copyright/License
+
+<tt>WidgetQuotes App Copyright (C) Carles Sentis 2011 carlesentis@gmail.com</tt>
+
+<tt>WidgetQuotes App is free software: you can
+redistribute it and/or modify it under the terms
+of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of
+the License, or (at your option) any later
+version.</tt>
+
+<tt>WidgetQuotes App is distributed in the hope that it
+will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.</tt>
+
+<tt>You should have received a copy of the GNU
+General Public License along with this program.
+If not, see http://www.gnu.org/licenses.</tt>
+
+
+== Bugs
+
